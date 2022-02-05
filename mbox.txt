@@ -1,3 +1,11 @@
+From: Steve Rogers <steve@mail.local>
+To: Ibnu H. <ibnuhalim@mail.local>
+Stored with zero-access encryption
+
+Date: Saturday, February 5th, 2022 at 00:08
+Type: Inbox
+Size:3.44 KB
+
 Lorem ipsum dolor sit amet consectetur adipisicing elit
 Delectus voluptatem iure veniam nostrum repellendus autem maiores tempore
 adipisci nobis labore facere consequuntur quibusdam
@@ -6,4 +14,3 @@ Iure modi consectetur nemo in dolores voluptates
 Delectus voluptatem iure veniam nostrum in dolores voluptates
 consectetur adipisicing elit
 facere consequuntur quibusdam iure veniam nostrum dolores voluptates iure
-
